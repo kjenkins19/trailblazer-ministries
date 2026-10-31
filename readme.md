@@ -31,7 +31,6 @@ Make sure you have Node.js installed (v22+ / v24+ recommended).
    ```bash
    npm run preview
    ```
-
 ---
 
 ## Updating Content & Images

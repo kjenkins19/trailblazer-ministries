@@ -7,11 +7,13 @@ export default defineConfig({
   // and when a custom domain is linked at the root (/) later.
   base: './',
   server: {
+    host: '127.0.0.1',
     port: 5000,
     strictPort: false,
     open: false,
   },
   preview: {
+    host: '127.0.0.1',
     port: 5000,
   },
   build: {

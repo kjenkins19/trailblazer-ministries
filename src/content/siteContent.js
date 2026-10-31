@@ -414,7 +414,21 @@ export const siteContent = {
         badge: 'Every Generation',
       },
     ],
-    contactEmail: 'info@trailblazersministries.com',
+    contactEmail: 'trailblazersministries@yahoo.com',
     locationNote: 'Serving our local community and laying foundations where there is no path.',
+    socials: [
+      {
+        platform: 'youtube',
+        label: 'YouTube',
+        handle: '@trailblazersministries576',
+        url: 'https://www.youtube.com/@trailblazersministries576',
+      },
+      {
+        platform: 'facebook',
+        label: 'Facebook',
+        handle: 'Trailblazersministries',
+        url: 'https://www.facebook.com/Trailblazersministries',
+      },
+    ],
   },
 };
